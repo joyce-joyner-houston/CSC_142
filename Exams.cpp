@@ -35,7 +35,7 @@
 /*
 
 Exams.cpp
-This programs provides your exam average by calculating all the exams you took
+This program provides your exam average by calculating all the exams you took
 Joyce Joyner-Houston
 1/29/25
 
