@@ -33,7 +33,7 @@
 /*
 
 SpeedTrap.cpp
-This programs tells you if you are speeding
+This program tells you if you are speeding
 Joyce Joyner-Houston
 1/29/25
 
