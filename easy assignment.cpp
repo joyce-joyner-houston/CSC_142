@@ -15,3 +15,5 @@ int main():
 
     //Print message
     std::cout<<"Hello "<< name << "You are approximately " << int age << "days old.">>std::end1;
+
+return 0;
